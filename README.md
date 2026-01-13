@@ -4,7 +4,7 @@ This repository contains the most up-to-date version of my professional resume.
 
 ## 📄 Resume
 - **Latest Resume (PDF):**  
-  [Juan_Sandoval_General_Resume_2025.pdf](./Juan_Sandoval_General_Resume_2025.pdf)
+  [Juan_Sandoval_General_Resume_2025.pdf](./Juan_Sandoval_Resume.pdf)
 
 ## 👨‍💻 About Me
 I am a Computer Science graduate with three years of professional experience as a Front-End Engineer. I am seeking opportunities in **full-stack software engineering** or **entry-level data analytics**, where I can apply strong technical fundamentals, problem-solving skills, and experience with AI-enhanced tools to build impactful solutions.
